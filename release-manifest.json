@@ -2,11 +2,11 @@
   "manifestSchemaVersion": 1,
   "siteKey": "atlas",
   "siteRepository": "site-alcohol-atlas",
-  "siteCommit": "b3a9b32b8c0ab6acb7ed0f22c31cf546a277dd99",
+  "siteCommit": "0705cf6259872956e6c955290f5d1d26d3a0ceaf",
   "host": "atlas.hejiu.org",
   "siteUrl": "https://atlas.hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T04:25:24.202Z",
+  "generatedAt": "2026-11-25T06:44:25.306Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -28047,7 +28047,7 @@
     "aggregateSource": ".hejiu/published/atlas.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "660efbc338008fccb6c01d89dfbef4367771f79dc1bf00a7ee253b6c5474408a",
+  "distTreeSha256ExcludingManifest": "8877a67a3130a9950189b0925da3f7f073128d8b9066e6695851013858ecf505",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
