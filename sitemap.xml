@@ -117,6 +117,7 @@
   <url><loc>https://atlas.hejiu.org/en/places/el-floridita/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/els-quatre-gats/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/employees-only/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/erlang-town/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/eyrie-vineyards/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/fattoria-felsina/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/fenjiu-museum/</loc></url>
@@ -135,6 +136,7 @@
   <url><loc>https://atlas.hejiu.org/en/places/gran-caffe-gambrinus/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/green-mill-chicago/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/guinness-storehouse/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/gujing-town/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/gujing-wine-culture-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/guyuelongshan/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/hakushika-sake-museum/</loc></url>
@@ -155,6 +157,7 @@
   <url><loc>https://atlas.hejiu.org/en/places/inglenook/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/jack-daniels-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/jameson-bow-street/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/jiannanchun-cellars/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/jordan-vineyard/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/kamiya-bar/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/kamoizumi/</loc></url>
@@ -171,18 +174,21 @@
   <url><loc>https://atlas.hejiu.org/en/places/la-rioja-alta/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/lagavulin-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/lamb-and-flag-covent-garden/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/langjiu-estate/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/laphroaig-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/leeuwin-estate/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/les-deux-magots/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/lokal-dlouha/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/louis-jadot/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/luzhou-laojiao-cellars/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/luzhou-laojiao-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/makers-mark-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/maotai-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/marques-de-riscal/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/mcsorleys-old-ale-house/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/mermaid-inn/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/mezcaloteca/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/mianzhu-nianhua-village/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/moet-et-chandon/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/monastery-of-poblet/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/mount-gay-distillery/</loc></url>
@@ -208,6 +214,7 @@
   <url><loc>https://atlas.hejiu.org/en/places/satsuma-shochu-meijigura/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/schlenkerla/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/scotch-whisky-experience/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/shuanggou-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/shuijingfang-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/spaniards-inn-hampstead/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/speak-low/</loc></url>
@@ -223,6 +230,7 @@
   <url><loc>https://atlas.hejiu.org/en/places/tsingtao-beer-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/tsingtao-beer-street/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/tsingtao-brewery/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/tucheng-town/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/u-fleku/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/u-medvidku/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/u-zlateho-tygra/</loc></url>
@@ -234,8 +242,11 @@
   <url><loc>https://atlas.hejiu.org/en/places/white-horse-tavern/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/williams-selyem/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/wirra-wirra/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/wuliangye-estate/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/wuliangye-wine-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/xianheng-hotel/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/xijiu-distillery/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/places/xinghua-village/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/yamazaki-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/yanghe-tourism/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/places/ye-olde-cheshire-cheese/</loc></url>
@@ -252,12 +263,15 @@
   <url><loc>https://atlas.hejiu.org/en/routes/bavaria-beer-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/belgium-beer-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/bordeaux-left-bank-chateaux/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/routes/bozhou-gujing/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/burgundy-grands-crus-drive/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/campbeltown-whisky-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/champagne-avenue-walk/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/cognac-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/cuba-rum-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/dublin-pub-trail/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/routes/fenyang-xinghua/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/routes/gulin-langjiu/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/ireland-whiskey-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/islay-whisky-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/japan-sake-kura-trail/</loc></url>
@@ -268,6 +282,7 @@
   <url><loc>https://atlas.hejiu.org/en/routes/loire-chenin-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/london-classic-bar-walk/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/london-gin-route/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/routes/luzhou-laojiao/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/madeira-wine-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/maotai-baijiu-town/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/margaret-river-wine-route/</loc></url>
@@ -275,6 +290,7 @@
   <url><loc>https://atlas.hejiu.org/en/routes/mclaren-vale-wine-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/mendoza-wine-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/mexico-tequila-trail/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/routes/mianzhu-jiannanchun/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/mosel-riesling-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/napa-valley-wine-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/new-york-historic-pubs/</loc></url>
@@ -291,6 +307,7 @@
   <url><loc>https://atlas.hejiu.org/en/routes/shaoxing-yellow-wine-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/sonoma-county-wine-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/speyside-malt-trail/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/routes/suqian-yanghe/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/tennessee-whiskey-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/tokyo-bar-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/tuscany-chianti-classico/</loc></url>
@@ -298,6 +315,8 @@
   <url><loc>https://atlas.hejiu.org/en/routes/venice-san-marco-two-bars/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/vienna-coffee-house-evening/</loc></url>
   <url><loc>https://atlas.hejiu.org/en/routes/willamette-valley-wine-route/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/routes/xishui-xijiu/</loc></url>
+  <url><loc>https://atlas.hejiu.org/en/routes/yibin-wuliangye/</loc></url>
   <url><loc>https://atlas.hejiu.org/events/</loc></url>
   <url><loc>https://atlas.hejiu.org/events/bordeaux-cite-du-vin-50-wine-regions-2026/</loc></url>
   <url><loc>https://atlas.hejiu.org/events/caffe-florian-sogni-veneziani-2026/</loc></url>
@@ -411,6 +430,7 @@
   <url><loc>https://atlas.hejiu.org/places/el-floridita/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/els-quatre-gats/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/employees-only/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/erlang-town/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/eyrie-vineyards/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/fattoria-felsina/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/fenjiu-museum/</loc></url>
@@ -429,6 +449,7 @@
   <url><loc>https://atlas.hejiu.org/places/gran-caffe-gambrinus/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/green-mill-chicago/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/guinness-storehouse/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/gujing-town/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/gujing-wine-culture-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/guyuelongshan/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/hakushika-sake-museum/</loc></url>
@@ -449,6 +470,7 @@
   <url><loc>https://atlas.hejiu.org/places/inglenook/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/jack-daniels-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/jameson-bow-street/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/jiannanchun-cellars/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/jordan-vineyard/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/kamiya-bar/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/kamoizumi/</loc></url>
@@ -465,18 +487,21 @@
   <url><loc>https://atlas.hejiu.org/places/la-rioja-alta/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/lagavulin-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/lamb-and-flag-covent-garden/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/langjiu-estate/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/laphroaig-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/leeuwin-estate/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/les-deux-magots/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/lokal-dlouha/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/louis-jadot/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/luzhou-laojiao-cellars/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/luzhou-laojiao-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/makers-mark-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/maotai-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/marques-de-riscal/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/mcsorleys-old-ale-house/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/mermaid-inn/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/mezcaloteca/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/mianzhu-nianhua-village/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/moet-et-chandon/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/monastery-of-poblet/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/mount-gay-distillery/</loc></url>
@@ -502,6 +527,7 @@
   <url><loc>https://atlas.hejiu.org/places/satsuma-shochu-meijigura/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/schlenkerla/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/scotch-whisky-experience/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/shuanggou-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/shuijingfang-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/spaniards-inn-hampstead/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/speak-low/</loc></url>
@@ -517,6 +543,7 @@
   <url><loc>https://atlas.hejiu.org/places/tsingtao-beer-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/tsingtao-beer-street/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/tsingtao-brewery/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/tucheng-town/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/u-fleku/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/u-medvidku/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/u-zlateho-tygra/</loc></url>
@@ -528,8 +555,11 @@
   <url><loc>https://atlas.hejiu.org/places/white-horse-tavern/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/williams-selyem/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/wirra-wirra/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/wuliangye-estate/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/wuliangye-wine-museum/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/xianheng-hotel/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/xijiu-distillery/</loc></url>
+  <url><loc>https://atlas.hejiu.org/places/xinghua-village/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/yamazaki-distillery/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/yanghe-tourism/</loc></url>
   <url><loc>https://atlas.hejiu.org/places/ye-olde-cheshire-cheese/</loc></url>
@@ -546,12 +576,15 @@
   <url><loc>https://atlas.hejiu.org/routes/bavaria-beer-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/belgium-beer-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/bordeaux-left-bank-chateaux/</loc></url>
+  <url><loc>https://atlas.hejiu.org/routes/bozhou-gujing/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/burgundy-grands-crus-drive/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/campbeltown-whisky-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/champagne-avenue-walk/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/cognac-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/cuba-rum-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/dublin-pub-trail/</loc></url>
+  <url><loc>https://atlas.hejiu.org/routes/fenyang-xinghua/</loc></url>
+  <url><loc>https://atlas.hejiu.org/routes/gulin-langjiu/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/ireland-whiskey-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/islay-whisky-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/japan-sake-kura-trail/</loc></url>
@@ -562,6 +595,7 @@
   <url><loc>https://atlas.hejiu.org/routes/loire-chenin-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/london-classic-bar-walk/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/london-gin-route/</loc></url>
+  <url><loc>https://atlas.hejiu.org/routes/luzhou-laojiao/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/madeira-wine-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/maotai-baijiu-town/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/margaret-river-wine-route/</loc></url>
@@ -569,6 +603,7 @@
   <url><loc>https://atlas.hejiu.org/routes/mclaren-vale-wine-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/mendoza-wine-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/mexico-tequila-trail/</loc></url>
+  <url><loc>https://atlas.hejiu.org/routes/mianzhu-jiannanchun/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/mosel-riesling-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/napa-valley-wine-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/new-york-historic-pubs/</loc></url>
@@ -585,6 +620,7 @@
   <url><loc>https://atlas.hejiu.org/routes/shaoxing-yellow-wine-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/sonoma-county-wine-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/speyside-malt-trail/</loc></url>
+  <url><loc>https://atlas.hejiu.org/routes/suqian-yanghe/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/tennessee-whiskey-trail/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/tokyo-bar-route/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/tuscany-chianti-classico/</loc></url>
@@ -592,4 +628,6 @@
   <url><loc>https://atlas.hejiu.org/routes/venice-san-marco-two-bars/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/vienna-coffee-house-evening/</loc></url>
   <url><loc>https://atlas.hejiu.org/routes/willamette-valley-wine-route/</loc></url>
+  <url><loc>https://atlas.hejiu.org/routes/xishui-xijiu/</loc></url>
+  <url><loc>https://atlas.hejiu.org/routes/yibin-wuliangye/</loc></url>
 </urlset>
