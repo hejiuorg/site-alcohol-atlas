@@ -6,7 +6,7 @@
   "host": "atlas.hejiu.org",
   "siteUrl": "https://atlas.hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T08:55:27.042Z",
+  "generatedAt": "2026-11-25T10:35:07.249Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -17,11 +17,11 @@
   "toolVersions": {
     "astro": "7.4.4",
     "pagefind": "1.5.2",
-    "node": "v22.23.5"
+    "node": "v24.16.0"
   },
   "contentCommits": null,
   "contentCommitNote": "G2 local workspace has no remote commits yet; content identity is the file SHA256 tree below.",
-  "contentTreeSha256": "a7e0ce54ae7ddcd8c0157274061b53d08ce734c7bb4a2ca276021a15aaa4766f",
+  "contentTreeSha256": "e0e4cc76bca0730c9e8189dd04f1a84f035482f1593bc9b57d32246b9f73e5f4",
   "contentFiles": [
     {
       "repository": "world-alcohol-encyclopedia/atlas",
@@ -4946,7 +4946,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/aperol-spritz.md",
-      "sha256": "28cd9cb73261a770d0f6bb7fb7fba8d5aa9a62fabbd545365d199118724cb20c",
+      "sha256": "6f6ff3d87187b265b55f73e9ad7cd1a0bc9b75c8b01412cfb46bde346f43ed62",
       "id": "cocktail:aperol-spritz",
       "lang": "en",
       "status": "reviewed"
@@ -4970,7 +4970,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/bellini.md",
-      "sha256": "95074064fa2dea035fd55e0c785b2ec836bd89ba504411b9aeb3bf5a27fed18c",
+      "sha256": "9e49d6c8cdb7770d944fdb639b3b12c2c33b52549f797744943311bfcf3450c6",
       "id": "cocktail:bellini",
       "lang": "en",
       "status": "reviewed"
@@ -4994,7 +4994,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/bloody-mary.md",
-      "sha256": "bdfcf0abfe0577d4d3ae7bbb1681e7bccb32bfc9495ee16a4df8d361c95f8f82",
+      "sha256": "c2621acb98b3873d7a7257e4d9d751eb5716c54150da42be9f0fe7e488609f76",
       "id": "cocktail:bloody-mary",
       "lang": "en",
       "status": "reviewed"
@@ -5018,7 +5018,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/caipirinha.md",
-      "sha256": "de48afdd63f4d735604831a523c3d163b6d57c9e08b5b80f3a4200d24d038960",
+      "sha256": "8b675d15c9e85cfb10708a580db7f08662cf135ac72db4f017fc4564af1b5835",
       "id": "cocktail:caipirinha",
       "lang": "en",
       "status": "reviewed"
@@ -5034,7 +5034,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/clover-club.md",
-      "sha256": "ba2bbb85c2667b18471659c806a64d79760ad8a5df8b2d6f3d7cdce449f42aa4",
+      "sha256": "c9713c8ec210e8839e5ca8a8bb3a15b023656910b27d2877566b3831cab46b6f",
       "id": "cocktail:clover-club",
       "lang": "en",
       "status": "reviewed"
@@ -5042,7 +5042,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/corpse-reviver-2.md",
-      "sha256": "a179db3eb616687b96538244468d52f4928dbc949ff7cd121070438f55ad6a95",
+      "sha256": "baf19b1ad0d97b50bf571ab0184a692ee9365ebdc031953f4e11ee87ac12bcdd",
       "id": "cocktail:corpse-reviver-2",
       "lang": "en",
       "status": "reviewed"
@@ -5050,7 +5050,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/cosmopolitan.md",
-      "sha256": "19f7c6844bea25f05a3b152d1bfa6a6de3cc8b8354bf7c1ba05e2ffa74ca3e7b",
+      "sha256": "e69fdc0b68234de8759a9e190af89b68897ad5894a3f08e6a0f3f272943be356",
       "id": "cocktail:cosmopolitan",
       "lang": "en",
       "status": "reviewed"
@@ -5058,7 +5058,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/daiquiri.md",
-      "sha256": "47bd63d53a74a2b7562f127ac5f658c99fcbd53286ecfd050427e34fe9b2297c",
+      "sha256": "09af58225f5253246b2e4b1a8824b60afdce552430afcc2ca98d4fd7b08c45b5",
       "id": "cocktail:daiquiri",
       "lang": "en",
       "status": "reviewed"
@@ -5074,7 +5074,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/dry-martini.md",
-      "sha256": "e20ed3c1b28f21c7ef986969d8776d39292ae29d85245033f434f0bdfe6db5b9",
+      "sha256": "7249731488b1fe233a6bd1176228a0f55b6d9589b76fb3fbe6e3e99e00346e5a",
       "id": "cocktail:dry-martini",
       "lang": "en",
       "status": "reviewed"
@@ -5082,7 +5082,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/espresso-martini.md",
-      "sha256": "eb025bbde0a7e0a6f7e54a4f19e575bfcca55dcec3e9c5f6896374606de808ab",
+      "sha256": "b0b02bf5004b9dd1513216e64235ef7337ac9df54f64666932f52bfd05137e84",
       "id": "cocktail:espresso-martini",
       "lang": "en",
       "status": "reviewed"
@@ -5090,7 +5090,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/french-75.md",
-      "sha256": "319ef7ce7c36f016177aef097a6a47792aa600abe220cd538b6072990514afd0",
+      "sha256": "2332512776dccfff392754f31858ac5232fb84541bf6765a2bd80d1cafa1f824",
       "id": "cocktail:french-75",
       "lang": "en",
       "status": "reviewed"
@@ -5098,7 +5098,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/gimlet.md",
-      "sha256": "ae10838a82c1ff70bb13f1b9a16137da2a26009b4313c71e7b337c77f0a25213",
+      "sha256": "50881e7536dcbe06ee78e66ba0b29aef461c5a37a91366a1ef3806742a4e33cd",
       "id": "cocktail:gimlet",
       "lang": "en",
       "status": "reviewed"
@@ -5122,7 +5122,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/hemingway-daiquiri.md",
-      "sha256": "7710e2a62a9330f132ef9a5e717babef8bfd3aef41b08753255d01c41f7a3984",
+      "sha256": "f138552edebcca634917f21663591cc1134a34ea5847821a4bfac712c6d2a2e0",
       "id": "cocktail:hemingway-daiquiri",
       "lang": "en",
       "status": "reviewed"
@@ -5146,7 +5146,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/last-word.md",
-      "sha256": "a02a0ac85f3bd61017126dee3141bf60917a67dbeaab6a153c98088201542096",
+      "sha256": "e2c1ad280fd16b9e4432cb13d4da41aead0893799121bab10f537e274893174e",
       "id": "cocktail:last-word",
       "lang": "en",
       "status": "reviewed"
@@ -5170,7 +5170,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/manhattan.md",
-      "sha256": "3fa244a39f8a0d88206df7ded909c422b001985ee0b43eca33f70e7de9db169c",
+      "sha256": "213d61ce32d79524143afa6b169d2ea5d4839902d1b8624ba54631f46760539b",
       "id": "cocktail:manhattan",
       "lang": "en",
       "status": "reviewed"
@@ -5178,7 +5178,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/margarita.md",
-      "sha256": "e436a111e07b1eb6c16639e5ee99a34f078228d5f65725cabb27491adde07534",
+      "sha256": "7776c7a75c67b2b651739f53426c954c46e8305ff94f599f1c81cc97e290008d",
       "id": "cocktail:margarita",
       "lang": "en",
       "status": "reviewed"
@@ -5202,7 +5202,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/mint-julep.md",
-      "sha256": "cdc070f8eee4e70cb6f6de627462f9851695c77d4db6bb1f463a1040622b5516",
+      "sha256": "b5214f892baa5f2a275561aa6b79ba6603b2bd269dec5d58704fb50424858515",
       "id": "cocktail:mint-julep",
       "lang": "en",
       "status": "reviewed"
@@ -5210,7 +5210,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/mojito.md",
-      "sha256": "982a0e78c588e8f4c5a976a576c5c53ecb9180fa8c2685a0e55a1f18c8b4a653",
+      "sha256": "a453bb79c2fe367b9e04785d203bb5de52f75047bda363264bc051c6576604dd",
       "id": "cocktail:mojito",
       "lang": "en",
       "status": "reviewed"
@@ -5218,7 +5218,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/moscow-mule.md",
-      "sha256": "75f78e98c111fafae234dfd6c916cdc95cdd21766e8347aed4918e6ebe335ebf",
+      "sha256": "a10efcbbb55260e83b352a1a1784c6cf9eaaf4e017bf2ac7bfdb6577c1cb69f8",
       "id": "cocktail:moscow-mule",
       "lang": "en",
       "status": "reviewed"
@@ -5226,7 +5226,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/negroni.md",
-      "sha256": "25d1acced4d529de6e25f0ea30298811cad95feeb56f10be98624a4ed3f1ab73",
+      "sha256": "f6dc6780605368e636a63c5a380dcebda5a6b524e27f236c2e7238b56d137b19",
       "id": "cocktail:negroni",
       "lang": "en",
       "status": "reviewed"
@@ -5234,7 +5234,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/old-fashioned.md",
-      "sha256": "c154b8db991ea800ffd62d800a6818a99a935cd886647d17f86a90b617e46e75",
+      "sha256": "0d9cee3e09ececf2f7dc13bb3ab4b93b4789056e1cb6de372c831ce0fda8702c",
       "id": "cocktail:old-fashioned",
       "lang": "en",
       "status": "reviewed"
@@ -5242,7 +5242,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/old-pal.md",
-      "sha256": "7055503956c8209dca57a47b846ed36f98a7c13aac8f25c2c9ce567f43033271",
+      "sha256": "e0c2ee9058f1dba3c4b8ca34fb1df08c2f5c52c2d805a39ca9e40e395c93c841",
       "id": "cocktail:old-pal",
       "lang": "en",
       "status": "reviewed"
@@ -5250,7 +5250,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/paloma.md",
-      "sha256": "c0f167e5c2f21c88cd2805bc1afb89d6bce7813ad01f447bd91f8d740922f7ae",
+      "sha256": "f4a86faa1a07a0a9897c52f11e3c6b915c964da649ef8b4509d8f14615022086",
       "id": "cocktail:paloma",
       "lang": "en",
       "status": "reviewed"
@@ -5258,7 +5258,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/paper-plane.md",
-      "sha256": "c00135639ff3929bae4b11e91feb0f7eb210752f5716cd2a3461bd4487f7f580",
+      "sha256": "e23e1b703bab161e0910cdaf0de4ad77ffe62c83f4071dba557d4d29748608f1",
       "id": "cocktail:paper-plane",
       "lang": "en",
       "status": "reviewed"
@@ -5266,7 +5266,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/penicillin.md",
-      "sha256": "77be76892ef952b8f6d7bec0d7f0cabbb666b81f623927c8651388ff212f6d1f",
+      "sha256": "2d87caad952e2c1048061b8ee4da7672a5f22e5451c84e9fcee056aa17710f90",
       "id": "cocktail:penicillin",
       "lang": "en",
       "status": "reviewed"
@@ -5290,7 +5290,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/pisco-sour.md",
-      "sha256": "443890a9b49809b6fd9cbdaba0396132904cdb7edc1839d178cb55e9a01753fc",
+      "sha256": "0ec8f01f8b2623999eed0cf78324bcf5a10fc39b51aa8c83b50934e4ed143e37",
       "id": "cocktail:pisco-sour",
       "lang": "en",
       "status": "reviewed"
@@ -5306,7 +5306,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/sazerac.md",
-      "sha256": "8eefaedb210787f37fbd20bf9ed6235145422be38c0613a762ceea7ba906218c",
+      "sha256": "2c9d2cf0a21a895cb71d116e9b27671bab315af942f4c398289b1fa5c90361ea",
       "id": "cocktail:sazerac",
       "lang": "en",
       "status": "reviewed"
@@ -5314,7 +5314,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/sidecar.md",
-      "sha256": "538e0586a06fa78314f87cfc28bbc8bc51afdbb7ad7e1b37b2e3f98eb7ce2406",
+      "sha256": "3935b27719c561f11510154dcebcbcd959494d326a954687afa22fefb564965c",
       "id": "cocktail:sidecar",
       "lang": "en",
       "status": "reviewed"
@@ -5322,7 +5322,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/singapore-sling.md",
-      "sha256": "1535a4d72506e3bab190af460d4d00923f9d9c6f7af71da47681988eef9589d5",
+      "sha256": "c9ab0685f48e7d4e082c586e236c3815f7122a4e63cd7acdf536ab3693be5d41",
       "id": "cocktail:singapore-sling",
       "lang": "en",
       "status": "reviewed"
@@ -5346,7 +5346,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/vieux-carre.md",
-      "sha256": "b63e2fcdfbba8da508fb36e9974ec16e5baccfe3acef96f8477062b6d17d9527",
+      "sha256": "ce03162a05905bea3fd9815242a5f43431ea542cc3f652ee7aefb9a4973ba0bf",
       "id": "cocktail:vieux-carre",
       "lang": "en",
       "status": "reviewed"
@@ -5354,7 +5354,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/cocktail/whiskey-sour.md",
-      "sha256": "c2e672ac7b6b524ccde8ddd9f2d573da7b8598e7b9c1c554b400edfa78ec6249",
+      "sha256": "929750c79d193b1b412183bf734fd4d9030bb0fc951ff6dbcd624c12979479c1",
       "id": "cocktail:whiskey-sour",
       "lang": "en",
       "status": "reviewed"
@@ -8697,6 +8697,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/fenyang.md",
+      "sha256": "ebbfafb9b0a64798b3fac56d816edd821bf50893eed7414b14209d9b078b6580",
+      "id": "region:fenyang",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/finger-lakes.md",
       "sha256": "0b9fe57886a239b3999a25c32cd6886b93e326947ec216b9097e16a5a4b9af64",
       "id": "region:finger-lakes",
@@ -8972,6 +8980,14 @@
       "path": "en/region/lowland.md",
       "sha256": "280fcb2cdeb34d18747efeabd014363e73d44be5b97b37bc85c4ff6229f04032",
       "id": "region:lowland",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/luzhou.md",
+      "sha256": "d88c5ef9bffdd41e7ab32eccba4cc83c2927c6dfae78096927d734a8e86c62d2",
+      "id": "region:luzhou",
       "lang": "en",
       "status": "reviewed"
     },
@@ -9649,6 +9665,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/yibin.md",
+      "sha256": "03c93893a8bcb8c970cdb25008e753f94b03cc60a0eb1bd89ba5a50f4bf86c52",
+      "id": "region:yibin",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/yunnan.md",
       "sha256": "4a48e03d6ad3a67305e3030ed2b9ff9f8bb0fdd4b80439b4540c027e73ff2c77",
       "id": "region:yunnan",
@@ -9660,6 +9684,14 @@
       "path": "en/region/zhejiang.md",
       "sha256": "f8188511fcbc3d110f5a15388db6105dccc72c8783b3db1a7634c4426b749035",
       "id": "region:zhejiang",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/zunyi.md",
+      "sha256": "8c8fc351cfc0c8fba84d8b42826a8968e3306e8fa3755cace620cdb7c51281f3",
+      "id": "region:zunyi",
       "lang": "en",
       "status": "reviewed"
     },
@@ -14945,6 +14977,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/fenyang.md",
+      "sha256": "2454b27b4ed53f6fe11d96cf3f241158f2a7b6a389160647a28d0d544649c8dc",
+      "id": "region:fenyang",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/finger-lakes.md",
       "sha256": "4e64fb44350502ea448a6994e85e8a470ba1b0b12d551f91af0e8c2da0c207c5",
       "id": "region:finger-lakes",
@@ -15220,6 +15260,14 @@
       "path": "zh/region/lowland.md",
       "sha256": "771329066ad8d4f55ecd4e5d49b2c9b3fae4742b716fd4560f46c7bf79b6a285",
       "id": "region:lowland",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/luzhou.md",
+      "sha256": "b383cc31af0c75c08968bd88c9bd9c68d979b94332d6a89e9f36542f581854ac",
+      "id": "region:luzhou",
       "lang": "zh",
       "status": "reviewed"
     },
@@ -15897,6 +15945,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/yibin.md",
+      "sha256": "0a95c95d63187363bb1549650e70906e8b372a944b9cbcbefeebe2ef46c4a6ee",
+      "id": "region:yibin",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/yunnan.md",
       "sha256": "f527bf8c21c84e351e3bfb706867a972f38a4283c82c6181218b64c8e9a0cb66",
       "id": "region:yunnan",
@@ -15908,6 +15964,14 @@
       "path": "zh/region/zhejiang.md",
       "sha256": "8bf49d9d5afa072cad6ccee29b67dfb1952939d10610e479f3edce41cd882cb7",
       "id": "region:zhejiang",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/zunyi.md",
+      "sha256": "a3882c428c4674b358541f6d125fcee9c91e633555f398b00fff0dc56ed7ca70",
+      "id": "region:zunyi",
       "lang": "zh",
       "status": "reviewed"
     },
@@ -17962,7 +18026,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/historical-event/iba-founded-1951.md",
-      "sha256": "95711043dac4ea288369278dab94a4ffe6ecd9177ff88d958440b0b6bcb153d5",
+      "sha256": "3b2fe69529c38a75ce9f1fcd410c2b93136f849b05c5ad3f8d8b7120e57229c2",
       "id": "historical-event:iba-founded-1951",
       "lang": "en",
       "status": "reviewed"
@@ -21146,7 +21210,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/guide/cocktail-basics.md",
-      "sha256": "ecba2ce6f2e730757c76f7228bcbe1dc5eb63380ba6cd2e1aec3d8f2d580437b",
+      "sha256": "e1f56dbb86a5f9277d9d52d0489935b6561a99ed37d54dbdb7b98587ab85daa6",
       "id": "guide:cocktail-basics",
       "lang": "en",
       "status": "reviewed"
@@ -21202,7 +21266,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/guide/rum-intro.md",
-      "sha256": "0c92c8f59d154254a2794bfdc8fcd683ff26b3db5bea29977a033830a4206142",
+      "sha256": "6f790fa7bcdb421762e1b5bed57c20161d1ea877110b9ead2b9c0b4423f6e294",
       "id": "guide:rum-intro",
       "lang": "en",
       "status": "reviewed"
@@ -21218,7 +21282,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/guide/tequila-mezcal-intro.md",
-      "sha256": "329a0b2c765794ae413a60fb754c9c3889779c32d51ae9d67742fc7c6d56f509",
+      "sha256": "9c8ff62bb650ca149e2d3622e543b4a8a07361344cc33aed81fd1e4ad58fd2c7",
       "id": "guide:tequila-mezcal-intro",
       "lang": "en",
       "status": "reviewed"
@@ -21290,7 +21354,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/pairing/japanese-sake.md",
-      "sha256": "a8b0625711d71f9d7c5025016fad3ac74b08befa9e78acf69d3e68cded3eabd2",
+      "sha256": "78f081c32f2daed3ce547bd2827846a6f6faf93793a0a1beeac9505ad0aa3a86",
       "id": "pairing:japanese-sake",
       "lang": "en",
       "status": "reviewed"
@@ -21314,7 +21378,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/pairing/mexican-food-and-beer.md",
-      "sha256": "b2606fdc174f2ee57ba63d8b5966c12ff35f5bb23e2432c94c6c42eb4f7abd23",
+      "sha256": "e975eb5b6b3a0aaaf287c66e9f2ba41020566ee26560631bc5d122fbdbfa0311",
       "id": "pairing:mexican-food-and-beer",
       "lang": "en",
       "status": "reviewed"
@@ -21370,7 +21434,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/aperol-spritz.md",
-      "sha256": "a46561e1ec3e9baf897063fc2d3fa0b933ff8317db27b8035b120abd661a1ba9",
+      "sha256": "8f4e4c67953efe6ab8a745cc225c8b05968924e8d1d89b8497ce6c1eb2673c70",
       "id": "recipe:aperol-spritz",
       "lang": "en",
       "status": "reviewed"
@@ -21378,7 +21442,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/cosmopolitan.md",
-      "sha256": "ccc107403ca443a38ae9027454899d67a5a7d51eeca7e023fc5d431ceea7e6c2",
+      "sha256": "10fd1930403a6be1a8fc356fe6fe1f919af3bd999f6b98d365200b37190f29f0",
       "id": "recipe:cosmopolitan",
       "lang": "en",
       "status": "reviewed"
@@ -21386,7 +21450,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/daiquiri.md",
-      "sha256": "89928aeaf22658c6d9ba215210b7768580d2c7eef320a3d50349bfff0683582c",
+      "sha256": "23bb39325c5f47043a1d8d4cb62d454e9af0c815cca4298a02a3311226029548",
       "id": "recipe:daiquiri",
       "lang": "en",
       "status": "reviewed"
@@ -21394,7 +21458,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/dry-martini.md",
-      "sha256": "fe4ba6d8d6a635e6af24ad604c06d382376756766b459c7152f36b8591cc19d9",
+      "sha256": "37b672c8900d510ba8087c09c2c08644b835532661dd5318d07a7a63e0ca9287",
       "id": "recipe:dry-martini",
       "lang": "en",
       "status": "reviewed"
@@ -21402,7 +21466,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/gin-fizz.md",
-      "sha256": "9440d9ec1e9d948a8e6dc8ff51bbc9d20ddb170559ebc553d3373115a17c0a01",
+      "sha256": "6b86dd614d629c91ffcf1ddfd6aab176b5c72c14fb99f73a46d48364a21e742e",
       "id": "recipe:gin-fizz",
       "lang": "en",
       "status": "reviewed"
@@ -21410,7 +21474,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/mai-tai.md",
-      "sha256": "efe2ba591ff805f499322d1a9fa90d2793d608e234d42c569971963a91b3d208",
+      "sha256": "59ff87b30391cc450e802c5e598411b37c8ba7040de1664a19225293af51089a",
       "id": "recipe:mai-tai",
       "lang": "en",
       "status": "reviewed"
@@ -21418,7 +21482,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/manhattan.md",
-      "sha256": "65758f2fb2d3cf6b4c8a73f1d8483eee7b4cedf01681340800f1c7bbc9253272",
+      "sha256": "09bf36fa931456fc8a550b6ccc953c398d55d18bf74bc5e87e1075921ebafa5f",
       "id": "recipe:manhattan",
       "lang": "en",
       "status": "reviewed"
@@ -21426,7 +21490,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/margarita.md",
-      "sha256": "4dc86e9cb416242089c45666b78fd4efed5d738933c28b0a35debb5723da6088",
+      "sha256": "4243342614f7d58a6c3b30b2586d6831291a42791a38bcb241ccce1b596d48a9",
       "id": "recipe:margarita",
       "lang": "en",
       "status": "reviewed"
@@ -21434,7 +21498,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/mint-julep.md",
-      "sha256": "3a6cfc08f824f70817f40acc223aa03bf534d683168674f26d368a1ccf5e1e02",
+      "sha256": "6c91b9f318ca79c250430139b6aea0511f46b6a65e3f53730fe4b216cfd8caf2",
       "id": "recipe:mint-julep",
       "lang": "en",
       "status": "reviewed"
@@ -21442,7 +21506,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/mojito.md",
-      "sha256": "738211b2eaaa2e7f861744be377ac90b0ec454afce13968f3f32d3af9706080e",
+      "sha256": "8b593e464772b6b6f37aecbb2460a21ec3ada7da75d1d0b0ff1ee0240f6a1653",
       "id": "recipe:mojito",
       "lang": "en",
       "status": "reviewed"
@@ -21450,7 +21514,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/negroni.md",
-      "sha256": "8dffccf3c4ac6f91ab89154d3422a951c899b45e7e77976bd3c9eea8206c4056",
+      "sha256": "419247e435f256cd6724130693576f9ee11a374ef6ba93b1c7cf45813ac75350",
       "id": "recipe:negroni",
       "lang": "en",
       "status": "reviewed"
@@ -21458,7 +21522,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/old-fashioned.md",
-      "sha256": "016c5c8186016583cfc7c2bbf77af704bca41402ae97a0eab34f3bc9660e163f",
+      "sha256": "7badcafacdd976f18d6638926b4bd2fc0404933bd0f3ac1c3694e5a1f49c21f6",
       "id": "recipe:old-fashioned",
       "lang": "en",
       "status": "reviewed"
@@ -21482,7 +21546,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/recipe/whiskey-sour.md",
-      "sha256": "19f5710136cde19aa41aff8130d8be2100bef3acf585f74961369257d7e0f92f",
+      "sha256": "12c692124696be4247c8a27bc43bd0d2da9736380eea6aa00993117a7384bf3d",
       "id": "recipe:whiskey-sour",
       "lang": "en",
       "status": "reviewed"
@@ -21514,7 +21578,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/double-straining.md",
-      "sha256": "84bb1e4cdc9937a55a966a11c660e6910e301350658294cc73ea2c2276f7fc60",
+      "sha256": "e95b30e2b6aeb171a75b37ccfe6e852a4b854ef6c1510218f13e39097d2aeb14",
       "id": "technique:double-straining",
       "lang": "en",
       "status": "reviewed"
@@ -21522,7 +21586,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/dry-shaking.md",
-      "sha256": "b302d489ed8426a12e577b1f3936955b7194860dda255d09da09953e936fd983",
+      "sha256": "e5f76746281477705798b5b60c73dcfcb7765cb9fb3c074315a153e374371888",
       "id": "technique:dry-shaking",
       "lang": "en",
       "status": "reviewed"
@@ -21530,7 +21594,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/flaming-zest.md",
-      "sha256": "e9b352868b0d61f476e5830111f8ccfb78815b685f0bdab3d813d290f5f5112d",
+      "sha256": "1943c1d565126cf8ed234363dad764cb16567ad395dedc33c3ea7902061eea08",
       "id": "technique:flaming-zest",
       "lang": "en",
       "status": "reviewed"
@@ -21538,7 +21602,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/layering.md",
-      "sha256": "5b222e2032375a5492364c8910f23753a6d236de7b10b456b551423cd120cbd4",
+      "sha256": "293c6fe61e9326e3aa42bb5a4e4e4c751af140044a6f9285ea7776549547fecf",
       "id": "technique:layering",
       "lang": "en",
       "status": "reviewed"
@@ -21546,7 +21610,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/muddling.md",
-      "sha256": "75ac1edf8fc7c6e05d9f87d6e82a03d34a195188c811b590ea107bb24cdbe869",
+      "sha256": "654d344c83e96e183bbdf9783c673d5647c2871d852cd7e519505b7011fa6412",
       "id": "technique:muddling",
       "lang": "en",
       "status": "reviewed"
@@ -21594,7 +21658,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/rolling.md",
-      "sha256": "5d610688fb7b3e41f269537da2745e8d132ac0ac2de0ad26b91de40004154b22",
+      "sha256": "951880a30bfae25948b3564668db1e2672574ff95e587c43af76fb53e22ae446",
       "id": "technique:rolling",
       "lang": "en",
       "status": "reviewed"
@@ -21610,7 +21674,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/shaking.md",
-      "sha256": "9bec90fb7429a28cf5836805e0602d9fedcb1740df231240d892e81d73f8c401",
+      "sha256": "6501ffb52fedc57abc1830e60974cc1361a6667cdfdfec1145872b5234b02c3e",
       "id": "technique:shaking",
       "lang": "en",
       "status": "reviewed"
@@ -21634,7 +21698,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/stirring.md",
-      "sha256": "39bc4396d1343332d303b9aecf305d35aa6c2961ce4d13058cc15cd5e785bd64",
+      "sha256": "1d1041e0644760ba50131ee37e0a4d181ac28f2dde9d2d315408a5a64b7f403a",
       "id": "technique:stirring",
       "lang": "en",
       "status": "reviewed"
@@ -21650,7 +21714,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/bar-spoon.md",
-      "sha256": "1a14609b4bed6060356cf57d37a7186a56450d8692cb382a241a217c883598e2",
+      "sha256": "7c91be1dcb63d950b2b7d5ab6933b773ae491f5c3fc98e34a61e3785911c2333",
       "id": "tool:bar-spoon",
       "lang": "en",
       "status": "reviewed"
@@ -21674,7 +21738,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/citrus-press.md",
-      "sha256": "ebc98afca5b86c0ad7fe4ddbc61ce3d9faff1a4627865bd4def77e60f0a713cd",
+      "sha256": "936c8aff537e058bb68a7e33248e6f203694eca407e95b35bb15a628c2e2e28b",
       "id": "tool:citrus-press",
       "lang": "en",
       "status": "reviewed"
@@ -21682,7 +21746,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/cocktail-pick.md",
-      "sha256": "b3cd8723d84de871071f638f5711b37201f34e448d61cbeb4f0783a60c8fb5ca",
+      "sha256": "7b4735455bab8471646cb415072176eee69e93f374ff8a59d54274bd1a9118c1",
       "id": "tool:cocktail-pick",
       "lang": "en",
       "status": "reviewed"
@@ -21690,7 +21754,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/cocktail-shaker.md",
-      "sha256": "afe448e1e31d0215f9738593f455f51375cfacfa67639400ae0b3e5ae9903242",
+      "sha256": "a0eb7a685922829be33d571bb018b074ad7bf9aaf06d8d067238af12a8964679",
       "id": "tool:cocktail-shaker",
       "lang": "en",
       "status": "reviewed"
@@ -21706,7 +21770,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/fine-strainer.md",
-      "sha256": "5483f4858781b29950fa467c53c62ef14a2ef3d7899dc811a474a1b278ca7c00",
+      "sha256": "574e68462fe806131df8df3432a5dbaaba063372b387d3113abc9f213c71993f",
       "id": "tool:fine-strainer",
       "lang": "en",
       "status": "reviewed"
@@ -21730,7 +21794,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/jigger.md",
-      "sha256": "15c4dff1e33873b3d26b565df877193a4e6ae61ff98ee3aea940601e99aabdb5",
+      "sha256": "2a282256a5956e3197f3b7e8b51555746bc659b5e73fb371311c59386321c3e9",
       "id": "tool:jigger",
       "lang": "en",
       "status": "reviewed"
@@ -21738,7 +21802,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/mixing-glass.md",
-      "sha256": "01ad961998fc5baa1b3feebef200d23fe8df320eacf866d444d86d5c4f17bf2c",
+      "sha256": "4d9215ae8ea62eae410d836fc73efcdfda9e59344e6cd3d52e1ce2c1492119ea",
       "id": "tool:mixing-glass",
       "lang": "en",
       "status": "reviewed"
@@ -21746,7 +21810,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/muddler.md",
-      "sha256": "857223049de31a4d7c3167f6912cf23aab831e3ad8b1d4c35c5cfa49365e43cc",
+      "sha256": "4fa5134d2b60551db44d84cd24c1d83a696e861d65a103a6de715f8c386d4b6b",
       "id": "tool:muddler",
       "lang": "en",
       "status": "reviewed"
@@ -21754,7 +21818,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/speed-pourer.md",
-      "sha256": "f0b3121fbf012a492400b15ff492806064cf679a1b8be74c920c9b04fcab62de",
+      "sha256": "fa6bb8db27dd2c4d1b48eb93d71cb64b9a09424b2ddf8ae563c377e3d771eeb6",
       "id": "tool:speed-pourer",
       "lang": "en",
       "status": "reviewed"
@@ -21762,7 +21826,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/strainer.md",
-      "sha256": "dfb84e25ecb66181a6074085c20d093be25149812f1319c969200dc537750c08",
+      "sha256": "f624d410ad58aad0f7d010fb618097f5b063a2b3811953a727b14caec648b7fd",
       "id": "tool:strainer",
       "lang": "en",
       "status": "reviewed"
@@ -21802,7 +21866,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/champagne-flute.md",
-      "sha256": "c37485144e5fdb903d1a72775d155234f6c9dba8dd41f348bf0a421fa5f19260",
+      "sha256": "d45003411a40fc9f5ef4a3961c4a0c2105b60c4277acbff256d4374263b7c8c2",
       "id": "vessel:champagne-flute",
       "lang": "en",
       "status": "reviewed"
@@ -21818,7 +21882,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/coupe-glass.md",
-      "sha256": "29cacb72888527439696f1792c25f8c3772f5d74677d754d4dc173c164de4e83",
+      "sha256": "e49e81adc772d47956d43ca07344bb5b1eef77d1841b5f8cdd4ea09ec7ddca73",
       "id": "vessel:coupe-glass",
       "lang": "en",
       "status": "reviewed"
@@ -21842,7 +21906,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/highball.md",
-      "sha256": "e6c61a98f51a5d8362f3e05fed689c960c58a0a749c0abe557a0fa338e3b1a49",
+      "sha256": "93e3f82e367f181f6114bc6f8f5860ae760d1746c8874efbc89aa56f00f90ae1",
       "id": "vessel:highball",
       "lang": "en",
       "status": "reviewed"
@@ -21850,7 +21914,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/hurricane-glass.md",
-      "sha256": "efe5949fd446f4651310914c6e9e73b491e3c23a67128faa773f7f059a9bf5b5",
+      "sha256": "1632500c140193b1289acbbcbbd6584936d945485eb8dceffc804566d7b112cc",
       "id": "vessel:hurricane-glass",
       "lang": "en",
       "status": "reviewed"
@@ -21858,7 +21922,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/julep-cup.md",
-      "sha256": "e4a22f3e020a4eac5fba215d2001d6a49194165558aa090458fa368fda26cc33",
+      "sha256": "eceb96d4f90224ef42e8621826d9c12d9243592d400bb35262fa979aa976deaa",
       "id": "vessel:julep-cup",
       "lang": "en",
       "status": "reviewed"
@@ -21866,7 +21930,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/martini-glass.md",
-      "sha256": "173c57da0a5fce06b094a42b444927525a8eeacbcf0c4f83471cdaea8550e174",
+      "sha256": "40dd1eadcc62a8510cb1ebcb5f43cd097081c0a0581a26d818b79359f92658e6",
       "id": "vessel:martini-glass",
       "lang": "en",
       "status": "reviewed"
@@ -21874,7 +21938,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/nick-and-nora.md",
-      "sha256": "a1f686170abc052086cbd5c7dafced77dcd62e861496b6e6048211290b9f89e4",
+      "sha256": "d3c5df941a36b30944c33d7b986f030a6ffcab56772759fc377ea01205f14be7",
       "id": "vessel:nick-and-nora",
       "lang": "en",
       "status": "reviewed"
@@ -21898,7 +21962,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/rocks-glass.md",
-      "sha256": "c1879c4fab29aeea673249b46136276db258acfb6f243b56fb70b717ab9d2584",
+      "sha256": "d4b02731d20e5bd13da178af1327fd1dcd0b2553e3c0a5109c0240d845a5cf1f",
       "id": "vessel:rocks-glass",
       "lang": "en",
       "status": "reviewed"
@@ -21906,7 +21970,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/shot-glass.md",
-      "sha256": "ae5215d2cc9d5e6d4dde94c21da44ceb2abe819d3074f7c29c1a4e7e82762e3c",
+      "sha256": "5042a6717d0b9009380860c461649d44103d4a027212299f7e2213c145129c93",
       "id": "vessel:shot-glass",
       "lang": "en",
       "status": "reviewed"
@@ -21930,7 +21994,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/tiki-mug.md",
-      "sha256": "bd9d4d6c68d6a4f480c44d6d78285c61816d3728c1b203fcf22d4a5279673752",
+      "sha256": "f61437c8d7806f97049802e6d8c19eb3d0b82420b6df8d81789e847d9487ef70",
       "id": "vessel:tiki-mug",
       "lang": "en",
       "status": "reviewed"
@@ -21938,7 +22002,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/tulip-glass.md",
-      "sha256": "7f56c9a15b4bcc4d7c79d17f53e50b88693f6fba1a320e4f2d7dc82c3fb57020",
+      "sha256": "28e92749fbbc1dc7ddb7006c0fe3e77e0fc8377a9a2dc3220dd8bd8bb0fba725",
       "id": "vessel:tulip-glass",
       "lang": "en",
       "status": "reviewed"
@@ -22122,7 +22186,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/pairing/japanese-sake.md",
-      "sha256": "f64cfa967fb1e7f524214f4baf7ee39d4223af09e407702bc388634b62d10855",
+      "sha256": "12ec35e3cec17fb286e289bdb8d4dce4f57237a1a27311e6ebfcb04864b17d6e",
       "id": "pairing:japanese-sake",
       "lang": "zh",
       "status": "reviewed"
@@ -28047,7 +28111,7 @@
     "aggregateSource": ".hejiu/published/atlas.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "a30eb7c671b21a946e5765ad9c15468dd073400410952cfdaa332ed68e404fc1",
+  "distTreeSha256ExcludingManifest": "9a8c4095161b48de8564d8ffdfe299716873fd748db36167f6258c4625d15bca",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",

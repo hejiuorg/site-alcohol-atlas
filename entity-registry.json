@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T08:55:21.035Z",
-  "contentTreeSha256": "a7e0ce54ae7ddcd8c0157274061b53d08ce734c7bb4a2ca276021a15aaa4766f",
+  "generatedAt": "2026-11-25T10:35:01.493Z",
+  "contentTreeSha256": "e0e4cc76bca0730c9e8189dd04f1a84f035482f1593bc9b57d32246b9f73e5f4",
   "counts": {
-    "records": 2766,
-    "entities": 1422,
-    "publishedPages": 2766,
+    "records": 2852,
+    "entities": 1426,
+    "publishedPages": 2852,
     "previewPages": 0,
-    "sourceRecords": 2846,
-    "sourceEntities": 1423
+    "sourceRecords": 2854,
+    "sourceEntities": 1427
   },
   "entities": [
     {
@@ -2307,6 +2307,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "aperol-spritz",
+          "path": "/en/cocktails/aperol-spritz/",
+          "url": "https://beverages.hejiu.org/en/cocktails/aperol-spritz/",
+          "title": "Aperol Spritz",
+          "summary": "A low-alcohol aperitif of Aperol, Prosecco and soda water in the classic three-two-one ratio, defined by orange peel, gentle bitterness, sweetness and persistent bubbles.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2386,6 +2397,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "bellini",
+          "path": "/en/cocktails/bellini/",
+          "url": "https://beverages.hejiu.org/en/cocktails/bellini/",
+          "title": "Bellini",
+          "summary": "A Venetian classic of Prosecco and white peach purée, usually dated to Harry's Bar in 1948 and credited to Giuseppe Cipriani; the ratio is commonly two parts Prosecco to one part purée, with peach season and temperature deciding the flavour.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2465,6 +2487,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "bloody-mary",
+          "path": "/en/cocktails/bloody-mary/",
+          "url": "https://beverages.hejiu.org/en/cocktails/bloody-mary/",
+          "title": "Bloody Mary",
+          "summary": "A long drink of vodka, tomato juice, lemon, Worcestershire sauce, hot sauce, salt and pepper, garnished with celery; its origin is often traced to Harry's New York Bar in Paris, though the people and dates are disputed.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2544,6 +2577,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "caipirinha",
+          "path": "/en/cocktails/caipirinha/",
+          "url": "https://beverages.hejiu.org/en/cocktails/caipirinha/",
+          "title": "Caipirinha",
+          "summary": "Brazil's national cocktail, made by muddling cachaça, lime and sugar over ice; the IBA recipe uses 60 ml cachaça, one lime and two teaspoons of sugar, and muddling and ice decide the result.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2593,6 +2637,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "clover-club",
+          "path": "/en/cocktails/clover-club/",
+          "url": "https://beverages.hejiu.org/en/cocktails/clover-club/",
+          "title": "Clover Club",
+          "summary": "A classic cocktail of gin, lemon juice, raspberry syrup and egg white, shaken to a fine foam; balanced sour-sweet and usually garnished with a raspberry; the name comes from an American club of the same name in the early 20th century.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2612,6 +2667,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "corpse-reviver-2",
+          "path": "/en/cocktails/corpse-reviver-2/",
+          "url": "https://beverages.hejiu.org/en/cocktails/corpse-reviver-2/",
+          "title": "Corpse Reviver #2",
+          "summary": "A classic sour of equal parts gin, orange liqueur, Lillet Blanc and lemon juice, with a rinse of absinthe and an anise-citrus character.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2631,6 +2697,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "cosmopolitan",
+          "path": "/en/cocktails/cosmopolitan/",
+          "url": "https://beverages.hejiu.org/en/cocktails/cosmopolitan/",
+          "title": "Cosmopolitan",
+          "summary": "A classic cocktail of citron vodka, Cointreau, lime juice and cranberry juice, shaken and strained into a glass; tart and refreshing, pink in colour, commonly garnished with an orange twist or lime slice.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2650,6 +2727,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "daiquiri",
+          "path": "/en/cocktails/daiquiri/",
+          "url": "https://beverages.hejiu.org/en/cocktails/daiquiri/",
+          "title": "Daiquiri",
+          "summary": "A classic sour of white rum, lime juice and fine sugar, shaken and strained. Its structure is so simple that any imbalance in acidity, dilution or temperature shows at once.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2699,6 +2787,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "dry-martini",
+          "path": "/en/cocktails/dry-martini/",
+          "url": "https://beverages.hejiu.org/en/cocktails/dry-martini/",
+          "title": "Dry Martini",
+          "summary": "A classic cocktail of gin and dry vermouth, stirred and strained into a chilled glass, garnished with lemon peel or olives. Dryness is a matter of vermouth ratio, not the name.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2718,6 +2817,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "espresso-martini",
+          "path": "/en/cocktails/espresso-martini/",
+          "url": "https://beverages.hejiu.org/en/cocktails/espresso-martini/",
+          "title": "Espresso Martini",
+          "summary": "A modern classic of vodka, coffee liqueur, espresso and syrup, hard-shaken and served with a dense coffee foam and three coffee beans.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2737,6 +2847,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "french-75",
+          "path": "/en/cocktails/french-75/",
+          "url": "https://beverages.hejiu.org/en/cocktails/french-75/",
+          "title": "French 75",
+          "summary": "A sparkling short drink of gin, lemon, sugar and Champagne, commonly traced to Harry's New York Bar in Paris during the First World War and named after a French 75 mm field gun.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2756,6 +2877,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "gimlet",
+          "path": "/en/cocktails/gimlet/",
+          "url": "https://beverages.hejiu.org/en/cocktails/gimlet/",
+          "title": "Gimlet",
+          "summary": "A short drink of gin and lime cordial, or gin with fresh lime and syrup, whose acidity, sweetness and texture depend on which lime you use.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2835,6 +2967,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "hemingway-daiquiri",
+          "path": "/en/cocktails/hemingway-daiquiri/",
+          "url": "https://beverages.hejiu.org/en/cocktails/hemingway-daiquiri/",
+          "title": "Hemingway Daiquiri",
+          "summary": "White rum, grapefruit, lime and maraschino with no sugar, dry and strong, tied to Havana's El Floridita and the \"Papa Doble\".",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2914,6 +3057,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "last-word",
+          "path": "/en/cocktails/last-word/",
+          "url": "https://beverages.hejiu.org/en/cocktails/last-word/",
+          "title": "The Last Word",
+          "summary": "An equal-parts cocktail of gin, green Chartreuse, maraschino liqueur and lime juice, defined by herbal intensity, cherry-pit aroma and acidity, and a symbol of the 2000s modern-classic revival.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -2993,6 +3147,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "manhattan",
+          "path": "/en/cocktails/manhattan/",
+          "url": "https://beverages.hejiu.org/en/cocktails/manhattan/",
+          "title": "Manhattan",
+          "summary": "A classic cocktail of rye whiskey, sweet vermouth and bitters, stirred and strained into a glass, garnished with a cherry. The structure is simple, with sweetness and spice unfolding in layers.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3012,6 +3177,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "margarita",
+          "path": "/en/cocktails/margarita/",
+          "url": "https://beverages.hejiu.org/en/cocktails/margarita/",
+          "title": "Margarita",
+          "summary": "A classic cocktail of tequila, orange liqueur and fresh lime juice, shaken and served with an optional salt rim. Sweetness, sourness and salt are part of the structure.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3091,6 +3267,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mint-julep",
+          "path": "/en/cocktails/mint-julep/",
+          "url": "https://beverages.hejiu.org/en/cocktails/mint-julep/",
+          "title": "Mint Julep",
+          "summary": "A classic cocktail of bourbon, mint and sugar served over crushed ice in a filled glass, usually garnished with a mint sprig; cool and sweet, and a signature drink of American Southern horse-racing culture.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3110,6 +3297,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mojito",
+          "path": "/en/cocktails/mojito/",
+          "url": "https://beverages.hejiu.org/en/cocktails/mojito/",
+          "title": "Mojito",
+          "summary": "A long drink of white rum, lime, mint, cane sugar and soda. Press the mint, use plenty of ice, and let acidity, sweetness and bubbles decide whether it refreshes.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3129,6 +3327,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "moscow-mule",
+          "path": "/en/cocktails/moscow-mule/",
+          "url": "https://beverages.hejiu.org/en/cocktails/moscow-mule/",
+          "title": "Moscow Mule",
+          "summary": "A long drink of vodka, ginger beer and lime, balanced by ginger heat, carbonation and fresh lime acidity, usually served over ice in a copper mug or highball glass.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3148,6 +3357,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "negroni",
+          "path": "/en/cocktails/negroni/",
+          "url": "https://beverages.hejiu.org/en/cocktails/negroni/",
+          "title": "Negroni",
+          "summary": "A classic cocktail of equal parts gin, bitter aperitif and sweet vermouth. Cocktail identity and recipe versions are recorded separately.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3167,6 +3387,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "old-fashioned",
+          "path": "/en/cocktails/old-fashioned/",
+          "url": "https://beverages.hejiu.org/en/cocktails/old-fashioned/",
+          "title": "Old Fashioned",
+          "summary": "A classic cocktail of whiskey, sugar, bitters and water. A little sugar and water open up the spirit, and the simple structure lets the whiskey speak for itself.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3186,6 +3417,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "old-pal",
+          "path": "/en/cocktails/old-pal/",
+          "url": "https://beverages.hejiu.org/en/cocktails/old-pal/",
+          "title": "Old Pal",
+          "summary": "A classic cocktail of equal parts rye whiskey, Campari and dry vermouth, stirred and strained into a chilled glass, usually garnished with lemon peel; bitter and dry in style.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3205,6 +3447,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "paloma",
+          "path": "/en/cocktails/paloma/",
+          "url": "https://beverages.hejiu.org/en/cocktails/paloma/",
+          "title": "Paloma",
+          "summary": "A refreshing long drink of tequila, grapefruit and lime, defined by grapefruit bittersweetness, an optional salt rim and lively carbonation.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3224,6 +3477,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "paper-plane",
+          "path": "/en/cocktails/paper-plane/",
+          "url": "https://beverages.hejiu.org/en/cocktails/paper-plane/",
+          "title": "Paper Plane",
+          "summary": "A modern classic of equal parts bourbon, Aperol, amaro and lemon juice, balancing bittersweet herbs with bright citrus.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3243,6 +3507,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "penicillin",
+          "path": "/en/cocktails/penicillin/",
+          "url": "https://beverages.hejiu.org/en/cocktails/penicillin/",
+          "title": "Penicillin",
+          "summary": "A modern classic of blended Scotch, lemon, honey-ginger syrup and a float of Islay whisky, recognised by its smoke and ginger heat.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3322,6 +3597,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "pisco-sour",
+          "path": "/en/cocktails/pisco-sour/",
+          "url": "https://beverages.hejiu.org/en/cocktails/pisco-sour/",
+          "title": "Pisco Sour",
+          "summary": "A sour of pisco, lime juice, syrup and egg white, shaken into a silky foam and finished with a few dashes of Angostura bitters.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3371,6 +3657,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "sazerac",
+          "path": "/en/cocktails/sazerac/",
+          "url": "https://beverages.hejiu.org/en/cocktails/sazerac/",
+          "title": "Sazerac",
+          "summary": "A classic cocktail originating in New Orleans, made with cognac, a sugar cube and Peychaud's bitters in the IBA version, with an absinthe rinse; the rye whiskey version is the post-Civil War substitution tradition.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3390,6 +3687,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "sidecar",
+          "path": "/en/cocktails/sidecar/",
+          "url": "https://beverages.hejiu.org/en/cocktails/sidecar/",
+          "title": "Sidecar",
+          "summary": "A classic sour of cognac, orange liqueur and fresh lemon juice, usually built at 50:20:20, with an optional sugar rim.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3409,6 +3717,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "singapore-sling",
+          "path": "/en/cocktails/singapore-sling/",
+          "url": "https://beverages.hejiu.org/en/cocktails/singapore-sling/",
+          "title": "Singapore Sling",
+          "summary": "A classic cocktail of gin, cherry liqueur, citrus juice, pineapple juice and a little bitters, shaken and strained into a hurricane glass; the IBA version contains no soda and is garnished with pineapple and a maraschino cherry.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3488,6 +3807,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "vieux-carre",
+          "path": "/en/cocktails/vieux-carre/",
+          "url": "https://beverages.hejiu.org/en/cocktails/vieux-carre/",
+          "title": "Vieux Carré",
+          "summary": "A New Orleans classic of rye whiskey, Cognac, sweet vermouth, Bénédictine and two bitters, defined by its double base and herbal sweetness.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -3507,6 +3837,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "whiskey-sour",
+          "path": "/en/cocktails/whiskey-sour/",
+          "url": "https://beverages.hejiu.org/en/cocktails/whiskey-sour/",
+          "title": "Whiskey Sour",
+          "summary": "A classic cocktail of whiskey, lemon juice and sugar syrup, shaken and served, optionally with an egg-white foam; commonly garnished with a lemon slice or cherry.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -14026,6 +14367,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "cocktail-basics",
+          "path": "/en/guides/cocktail-basics/",
+          "url": "https://hejiu.org/en/guides/cocktail-basics/",
+          "title": "A cocktail is another way in",
+          "summary": "Start with base spirit, sweet, sour, bitter, dilution and ice; be able to reproduce a drink before you start inventing one.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -14225,6 +14577,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "rum-intro",
+          "path": "/en/guides/rum-intro/",
+          "url": "https://hejiu.org/en/guides/rum-intro/",
+          "title": "Rum for Beginners: From Sugar Cane to the Glass",
+          "summary": "Understand rum through four lines — raw material, distillation, ageing and region — then learn how to choose a first bottle, how to sip and mix it, what to expect from prices and buying, and which myths to drop.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -14274,6 +14637,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "tequila-mezcal-intro",
+          "path": "/en/guides/tequila-mezcal-intro/",
+          "url": "https://hejiu.org/en/guides/tequila-mezcal-intro/",
+          "title": "Tequila and Mezcal for Beginners: Two Agave Spirits",
+          "summary": "Explain the difference between tequila and mezcal through agave raw material, region and process, then cover types, choosing a first bottle, how to drink, price and buying, and common myths.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -15043,6 +15417,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "iba-founded-1951",
+          "path": "/en/history/iba-founded-1951/",
+          "url": "https://culture.hejiu.org/en/history/iba-founded-1951/",
+          "title": "Founding of the International Bartenders Association (1951): A Round Table of Seven Guilds",
+          "summary": "On 24 February 1951, seven bartenders' associations from Denmark, France, Italy, the Netherlands, Sweden, Switzerland and the United Kingdom decided in the saloon of the Grand Hotel in Torquay, England, to found the International Bartenders Association (IBA), with Bill Tarling of the UK Bartenders Guild as its first president. The association later connected separate national guilds into a cross-border professional network through the World Cocktail Championship, bartending education and an official cocktail list.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -17462,6 +17847,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mexican-food-and-beer",
+          "path": "/en/pairings/mexican-food-and-beer/",
+          "url": "https://hejiu.org/en/pairings/mexican-food-and-beer/",
+          "title": "Mexican Food and Beer: Maize, Chilli and Lime in Balance",
+          "summary": "The maize, chilli, lime and fat of Mexican food meet the bubbles, bitterness and malt sweetness of beer in several layers; choosing lager, IPA or dark malt beer by cooking method and heat is more accurate than \"ice-cold beer with everything\".",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28821,6 +29217,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "aperol-spritz",
+          "path": "/en/recipes/aperol-spritz/",
+          "url": "https://hejiu.org/en/recipes/aperol-spritz/",
+          "title": "Aperol Spritz recipe (IBA-approved version)",
+          "summary": "90 ml Prosecco, 60 ml Aperol and 30 ml soda water built over ice in a large stemmed glass and garnished with an orange slice; this recipe covers the 1919 origin, the pouring order, what the soda actually does and the low-alcohol trap.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28840,6 +29247,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "cosmopolitan",
+          "path": "/en/recipes/cosmopolitan/",
+          "url": "https://hejiu.org/en/recipes/cosmopolitan/",
+          "title": "Cosmopolitan recipe (IBA version)",
+          "summary": "40 ml citron vodka, 15 ml Cointreau, 15 ml fresh lime juice and 30 ml cranberry juice make the four-part Cosmopolitan ratio; this recipe explains the 1980s pink vogue, the sweetness and acid of cranberry juice, shaking and straining, and the lemon-peel aroma.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28859,6 +29277,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "daiquiri",
+          "path": "/en/recipes/daiquiri/",
+          "url": "https://hejiu.org/en/recipes/daiquiri/",
+          "title": "Daiquiri recipe (IBA version)",
+          "summary": "60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass with no garnish in the IBA version; this recipe explains each step of a very simple structure.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28878,6 +29307,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "dry-martini",
+          "path": "/en/recipes/dry-martini/",
+          "url": "https://hejiu.org/en/recipes/dry-martini/",
+          "title": "Dry Martini recipe (IBA version)",
+          "summary": "60 ml gin and 10 ml dry vermouth stirred over ice and strained into a chilled martini glass, garnished with lemon peel or a green olive; this recipe explains how dryness, stirring, ice and glass shape decide the result.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28897,6 +29337,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "gin-fizz",
+          "path": "/en/recipes/gin-fizz/",
+          "url": "https://hejiu.org/en/recipes/gin-fizz/",
+          "title": "Gin Fizz recipe (IBA version)",
+          "summary": "45 ml gin, 30 ml fresh lemon juice and 10 ml sugar syrup are shaken and strained before a splash of soda water goes in; this recipe explains why soda comes last, the dry 45:30:10 frame, the egg-white Silver Fizz and the ways carbonation is lost.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28916,6 +29367,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mai-tai",
+          "path": "/en/recipes/mai-tai/",
+          "url": "https://hejiu.org/en/recipes/mai-tai/",
+          "title": "Mai Tai recipe (IBA version)",
+          "summary": "30 ml amber Jamaican rum plus 30 ml Martinique molasses rum, with 15 ml orange curaçao, 15 ml orgeat, 30 ml lime juice and 7.5 ml sugar syrup; this recipe covers the two-rum division of labour, the tiki background and the pour-with-ice method.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28935,6 +29397,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "manhattan",
+          "path": "/en/recipes/manhattan/",
+          "url": "https://hejiu.org/en/recipes/manhattan/",
+          "title": "Manhattan recipe (IBA version)",
+          "summary": "50 ml rye whiskey, 20 ml sweet vermouth and 1 dash of Angostura bitters, stirred and strained into a chilled cocktail glass; this recipe covers the 5:2 frame, what a single dash does, why the drink is stirred and how dilution and vermouth freshness decide the result.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28954,6 +29427,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "margarita",
+          "path": "/en/recipes/margarita/",
+          "url": "https://hejiu.org/en/recipes/margarita/",
+          "title": "Margarita recipe (IBA version)",
+          "summary": "50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken and strained into a chilled glass with an optional half salt rim; this recipe explains how the sweet-sour balance, the salt rim and dilution decide the drink.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28973,6 +29457,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mint-julep",
+          "path": "/en/recipes/mint-julep/",
+          "url": "https://hejiu.org/en/recipes/mint-julep/",
+          "title": "Mint Julep recipe (IBA version)",
+          "summary": "60 ml bourbon, 4 fresh mint sprigs, 1 tsp powdered sugar and 2 tsp water, gently pressed in the cup and stirred with crushed ice until the cup frosts; this recipe covers why crushed ice is the body, the pressing technique, the frost signal and the racing tradition.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -28992,6 +29487,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mojito",
+          "path": "/en/recipes/mojito/",
+          "url": "https://hejiu.org/en/recipes/mojito/",
+          "title": "Mojito recipe (IBA version)",
+          "summary": "45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with mint and lime; this recipe explains the order of pressing, dissolving, ice and bubbles.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -29011,6 +29517,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "negroni",
+          "path": "/en/recipes/negroni/",
+          "url": "https://hejiu.org/en/recipes/negroni/",
+          "title": "Negroni recipe (IBA version)",
+          "summary": "30 ml each of gin, Campari and sweet vermouth, stirred and strained into a rocks glass over ice, garnished with orange peel; this recipe explains ratio, technique, equipment and substitution limits.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -29030,6 +29547,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "old-fashioned",
+          "path": "/en/recipes/old-fashioned/",
+          "url": "https://hejiu.org/en/recipes/old-fashioned/",
+          "title": "Old Fashioned recipe (IBA version)",
+          "summary": "45 ml bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with orange peel or a slice and a cocktail cherry; this recipe explains the ratio, the method and the limits of substitution.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -29109,6 +29637,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "whiskey-sour",
+          "path": "/en/recipes/whiskey-sour/",
+          "url": "https://hejiu.org/en/recipes/whiskey-sour/",
+          "title": "Whiskey Sour recipe (IBA version)",
+          "summary": "The Whiskey Sour is built on 45 ml bourbon, 25 ml fresh lemon juice and 20 ml sugar syrup, with egg white optional; this recipe covers the dry shake, the aroma of fresh lemon, how far to shake, glass and ice, and the departures common at the bar.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -30433,6 +30972,36 @@
       }
     },
     {
+      "id": "region:fenyang",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "fenyang",
+          "path": "/regions/fenyang/",
+          "url": "https://beverages.hejiu.org/regions/fenyang/",
+          "title": "汾阳市",
+          "summary": "山西省吕梁市下辖的县级市，杏花村汾酒产地；清香型白酒的核心产区，适合把地缸发酵、杏花村历史与酒厂参访放在一条线上理解。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "fenyang",
+          "path": "/en/regions/fenyang/",
+          "url": "https://beverages.hejiu.org/en/regions/fenyang/",
+          "title": "Fenyang",
+          "summary": "A county-level city under Lüliang in Shanxi and the home of Xinghuacun Fenjiu; a core area of light-aroma baijiu where earthen-jar fermentation, Fenjiu history and distillery visits can be understood together.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "region:finger-lakes",
       "type": "region",
       "siteKey": "beverages",
@@ -31476,6 +32045,36 @@
           "url": "https://beverages.hejiu.org/en/regions/lowland/",
           "title": "Lowland",
           "summary": "One of the five protected Scotch whisky regions, lying south of a line between Dundee and Greenock; often summarised as grassy, citrusy and creamy, yet home both to old triple-distilling sites and to farm-scale newcomers, so lightness is a starting point rather than a rule.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:luzhou",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "luzhou",
+          "path": "/regions/luzhou/",
+          "url": "https://beverages.hejiu.org/regions/luzhou/",
+          "title": "泸州市",
+          "summary": "长江与沱江交汇处的川南城市，泸州老窖与浓香型白酒的核心产地；适合观察老窖池、江运与城市酒业如何相互塑造。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "luzhou",
+          "path": "/en/regions/luzhou/",
+          "url": "https://beverages.hejiu.org/en/regions/luzhou/",
+          "title": "Luzhou",
+          "summary": "A city at the meeting of the Yangtze and Tuo rivers in southern Sichuan and a core area of Luzhou Laojiao and strong-aroma baijiu; a place to see old cellars, river transport and urban liquor production together.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -34003,6 +34602,36 @@
       }
     },
     {
+      "id": "region:yibin",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "yibin",
+          "path": "/regions/yibin/",
+          "url": "https://beverages.hejiu.org/regions/yibin/",
+          "title": "宜宾市",
+          "summary": "四川省南部、金沙江与岷江汇合处的城市，五粮液的核心产地；适合把浓香型白酒的产业、江河地理与酒厂参访放在同一条线上理解。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "yibin",
+          "path": "/en/regions/yibin/",
+          "url": "https://beverages.hejiu.org/en/regions/yibin/",
+          "title": "Yibin",
+          "summary": "A city at the confluence of the Jinsha and Min rivers in southern Sichuan and the home of Wuliangye; a useful place to connect strong-aroma baijiu, river geography and distillery visits.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "region:yunnan",
       "type": "region",
       "siteKey": "beverages",
@@ -34056,6 +34685,36 @@
           "url": "https://beverages.hejiu.org/en/regions/zhejiang/",
           "title": "Zhejiang Province",
           "summary": "An eastern coastal province and the core yellow wine region of China; Shaoxing wine combines glutinous rice, wheat qu and Jian Lake water, with tanfan, linfan and weifan rice-handling routes and jiafan-style products, while Jinhua and Huzhou keep traditions of their own.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:zunyi",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "zunyi",
+          "path": "/regions/zunyi/",
+          "url": "https://beverages.hejiu.org/regions/zunyi/",
+          "title": "遵义市",
+          "summary": "贵州省北部的地级市，赤水河与茅台镇所在；酱香型白酒的核心产区，适合把河谷气候、制曲下沙节律与酒厂参访连起来理解。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "zunyi",
+          "path": "/en/regions/zunyi/",
+          "url": "https://beverages.hejiu.org/en/regions/zunyi/",
+          "title": "Zunyi",
+          "summary": "A prefecture-level city in northern Guizhou, home to the Chishui River and Maotai Town; a core area of sauce-aroma baijiu where valley climate, qu making and distillery visits can be connected.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -36628,6 +37287,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "double-straining",
+          "path": "/en/techniques/double-straining/",
+          "url": "https://hejiu.org/en/techniques/double-straining/",
+          "title": "Double straining",
+          "summary": "A technique that passes a drink through a primary strainer to block ice and large solids, then through a fine mesh to remove pulp, herb fragments and ice shards; it gives a cleaner texture and appearance at the cost of speed.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -36647,6 +37317,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "dry-shaking",
+          "path": "/en/techniques/dry-shaking/",
+          "url": "https://hejiu.org/en/techniques/dry-shaking/",
+          "title": "Dry shaking",
+          "summary": "A two-stage technique of shaking without ice first and then with ice; it is used for recipes with egg white, cream or plant protein to build a stable foam before chilling and diluting.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -36666,6 +37347,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "flaming-zest",
+          "path": "/en/techniques/flaming-zest/",
+          "url": "https://hejiu.org/en/techniques/flaming-zest/",
+          "title": "Flaming zest",
+          "summary": "A technique in which citrus peel oil is squeezed through a flame and falls into the glass; it adds toasted aroma and drama, but it is an open-flame operation where safety comes first.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -36685,6 +37377,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "layering",
+          "path": "/en/techniques/layering/",
+          "url": "https://hejiu.org/en/techniques/layering/",
+          "title": "Layering",
+          "summary": "A technique that uses differences in liquid density to build visible layers in a glass; it depends on slow pouring and the order given by the recipe rather than on stirring.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -36704,6 +37407,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "muddling",
+          "path": "/en/techniques/muddling/",
+          "url": "https://hejiu.org/en/techniques/muddling/",
+          "title": "Muddling",
+          "summary": "A bartending technique in which herbs, fruit or sugar are gently pressed in the glass with a muddler to release aroma and juice; the key is to press without shredding, since force brings bitterness and cloudiness.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -36873,6 +37587,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "rolling",
+          "path": "/en/techniques/rolling/",
+          "url": "https://hejiu.org/en/techniques/rolling/",
+          "title": "Rolling",
+          "summary": "A mixing technique that pours a drink back and forth between two vessels; it is gentler than shaking and aerates more than stirring, and suits recipes that specifically call for rolling.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -36922,6 +37647,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "shaking",
+          "path": "/en/techniques/shaking/",
+          "url": "https://hejiu.org/en/techniques/shaking/",
+          "title": "Shaking",
+          "summary": "A bartending technique in which ingredients and ice are shaken hard in a shaker to chill, dilute and mix the drink; compared with stirring, shaking adds more aeration and dilution.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -37001,6 +37737,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "stirring",
+          "path": "/en/techniques/stirring/",
+          "url": "https://hejiu.org/en/techniques/stirring/",
+          "title": "Stirring",
+          "summary": "A bartending technique in which ingredients and ice go into a mixing glass and are stirred steadily with a bar spoon, chilling, lightly diluting and mixing the drink; compared with shaking, stirring adds less air and keeps the drink clearer.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -38760,6 +39507,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "bar-spoon",
+          "path": "/en/tools/bar-spoon/",
+          "url": "https://hejiu.org/en/tools/bar-spoon/",
+          "title": "Bar spoon",
+          "summary": "A long-handled bar tool for stirring cocktails, guiding pours and measuring small volumes; length, bowl capacity and spiral shaft affect stirring efficiency and handling.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -38839,6 +39597,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "citrus-press",
+          "path": "/en/tools/citrus-press/",
+          "url": "https://hejiu.org/en/tools/citrus-press/",
+          "title": "Citrus press",
+          "summary": "A manual tool that uses a lever or screw mechanism to press half a citrus fruit; cup size, stability and acid-resistant materials determine juice yield, cleaning and service life.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -38858,6 +39627,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "cocktail-pick",
+          "path": "/en/tools/cocktail-pick/",
+          "url": "https://hejiu.org/en/tools/cocktail-pick/",
+          "title": "Cocktail pick",
+          "summary": "A thin pin used to hold olives, cherries, citrus peel or onions; common lengths run 10–15 cm, and material, length, point treatment and corrosion resistance decide whether it holds the garnish without getting in the way.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -38877,6 +39657,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "cocktail-shaker",
+          "path": "/en/tools/cocktail-shaker/",
+          "url": "https://hejiu.org/en/tools/cocktail-shaker/",
+          "title": "Cocktail shaker",
+          "summary": "A bar tool for shaking cocktails, commonly in three-piece and two-piece forms; body, seal and straining method affect chilling, dilution and working efficiency.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -38926,6 +39717,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "fine-strainer",
+          "path": "/en/tools/fine-strainer/",
+          "url": "https://hejiu.org/en/tools/fine-strainer/",
+          "title": "Fine strainer",
+          "summary": "The second strainer in double straining, used to catch fruit fibre, herb fragments and ice shards; mesh fineness, frame stability and cleaning affect clarity and speed.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -39005,6 +39807,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "jigger",
+          "path": "/en/tools/jigger/",
+          "url": "https://hejiu.org/en/tools/jigger/",
+          "title": "Jigger",
+          "summary": "A small bar measure for fast, repeated doses of liquid; dual-ended capacity, clear markings and a controlled lip affect consistency and speed in service.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -39024,6 +39837,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mixing-glass",
+          "path": "/en/tools/mixing-glass/",
+          "url": "https://hejiu.org/en/tools/mixing-glass/",
+          "title": "Mixing glass",
+          "summary": "A vessel used with a bar spoon for stirred cocktails; wall thickness, capacity and rim shape affect stirring efficiency, dilution and the final temperature.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -39043,6 +39867,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "muddler",
+          "path": "/en/tools/muddler/",
+          "url": "https://hejiu.org/en/tools/muddler/",
+          "title": "Muddler",
+          "summary": "A rod-shaped bar tool for gently pressing herbs, fruit and sugar in the glass; length, head shape and material affect force control, cleaning and glass safety.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -39062,6 +39897,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "speed-pourer",
+          "path": "/en/tools/speed-pourer/",
+          "url": "https://hejiu.org/en/tools/speed-pourer/",
+          "title": "Speed pourer",
+          "summary": "A spout fitted to a spirit bottle that restricts flow and allows one-handed, continuous pouring; it buys speed and consistency, not accuracy, which still belongs to the jigger.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -39081,6 +39927,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "strainer",
+          "path": "/en/tools/strainer/",
+          "url": "https://hejiu.org/en/tools/strainer/",
+          "title": "Strainer",
+          "summary": "A bar tool that keeps ice, crushed ice and solid residue out of the glass; Hawthorne and julep strainers are the common types, with a fine-mesh strainer used for a second pass.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41350,6 +42207,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "champagne-flute",
+          "path": "/en/vessels/champagne-flute/",
+          "url": "https://hejiu.org/en/vessels/champagne-flute/",
+          "title": "Champagne flute",
+          "summary": "A tall, narrow, slightly tapered stemmed glass used for Champagne and sparkling wine; the narrow body helps retain bubbles but opens aroma less than wider shapes.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41399,6 +42267,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "coupe-glass",
+          "path": "/en/vessels/coupe-glass/",
+          "url": "https://hejiu.org/en/vessels/coupe-glass/",
+          "title": "Coupe glass",
+          "summary": "A stemmed, shallow bowl-shaped glass used for Champagne, sparkling wine and short drinks served without ice; the wide rim opens the aroma but lets bubbles fade quickly.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41478,6 +42357,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "highball",
+          "path": "/en/vessels/highball/",
+          "url": "https://hejiu.org/en/vessels/highball/",
+          "title": "Highball glass",
+          "summary": "A straight-sided, tall, fairly large long-drink glass used for drinks over ice and sparkling cocktails; capacity has no single standard, so adjust ice and soda to your own glass.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41497,6 +42387,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "hurricane-glass",
+          "path": "/en/vessels/hurricane-glass/",
+          "url": "https://hejiu.org/en/vessels/hurricane-glass/",
+          "title": "Hurricane Glass",
+          "summary": "A tall glass with a slender body, a bulging middle and a flared rim, shaped like an old hurricane lamp. It is used for tropical cocktails and crushed-ice drinks.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41516,6 +42417,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "julep-cup",
+          "path": "/en/vessels/julep-cup/",
+          "url": "https://hejiu.org/en/vessels/julep-cup/",
+          "title": "Julep Cup",
+          "summary": "A small metal cup, usually silver or pewter, used for the mint julep. Metal conducts cold quickly, frosts the wall and keeps the drink icy with crushed ice and mint.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41535,6 +42447,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "martini-glass",
+          "path": "/en/vessels/martini-glass/",
+          "url": "https://hejiu.org/en/vessels/martini-glass/",
+          "title": "Martini glass",
+          "summary": "A conical, stemmed short-drink glass with a slightly narrowed rim, also called a cocktail glass, used for the Dry Martini, Margarita and Daiquiri; capacity has no single standard and pre-chilling matters more than shape.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41554,6 +42477,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "nick-and-nora",
+          "path": "/en/vessels/nick-and-nora/",
+          "url": "https://hejiu.org/en/vessels/nick-and-nora/",
+          "title": "Nick and Nora glass",
+          "summary": "Named after the detective couple in the 1934 film The Thin Man; a small stemmed glass with a shallow bowl and wide rim, typically holding about 150–200 ml and suited to short drinks served without ice.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41633,6 +42567,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "rocks-glass",
+          "path": "/en/vessels/rocks-glass/",
+          "url": "https://hejiu.org/en/vessels/rocks-glass/",
+          "title": "Rocks glass",
+          "summary": "A short, wide-mouthed short-drink glass used for spirits over ice and stirred cocktails; capacity has no single standard, so adjust ice to your own glass.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41652,6 +42597,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "shot-glass",
+          "path": "/en/vessels/shot-glass/",
+          "url": "https://hejiu.org/en/vessels/shot-glass/",
+          "title": "Shot Glass",
+          "summary": "A small, thick-walled glass used for one-swallow servings of spirits, for measuring and for layered cocktails. It is built for convenience and intensity, not aroma.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41731,6 +42687,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "tiki-mug",
+          "path": "/en/vessels/tiki-mug/",
+          "url": "https://hejiu.org/en/vessels/tiki-mug/",
+          "title": "Tiki Mug",
+          "summary": "A shaped ceramic or glass mug carved as a tiki god, mask or totem. It belongs to tropical cocktail culture, and its capacity and form are more theatrical than an ordinary glass.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
@@ -41750,6 +42717,17 @@
           "status": "reviewed",
           "published": true,
           "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "tulip-glass",
+          "path": "/en/vessels/tulip-glass/",
+          "url": "https://hejiu.org/en/vessels/tulip-glass/",
+          "title": "Tulip glass",
+          "summary": "A stemmed glass with a wide bowl that narrows towards the rim, used for Champagne, beer and some short drinks; it balances aroma concentration and bubble retention.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
         }
       }
     },
