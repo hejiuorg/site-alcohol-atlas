@@ -6,7 +6,7 @@
   "host": "atlas.hejiu.org",
   "siteUrl": "https://atlas.hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T06:44:25.306Z",
+  "generatedAt": "2026-11-25T07:28:35.779Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -28047,7 +28047,7 @@
     "aggregateSource": ".hejiu/published/atlas.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "8877a67a3130a9950189b0925da3f7f073128d8b9066e6695851013858ecf505",
+  "distTreeSha256ExcludingManifest": "76a35131a61b1101daf2914a575624a2cc1758bd9527a97d4215166429ec6d00",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
